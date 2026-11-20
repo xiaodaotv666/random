@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:48
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:48.000000,
+https://weilaikeqi-blog.oss-cn-guangzhou.aliyuncs.com/i/r8br8bi3_1795200829019/r8br8bi3_1795200829019_0.png
+#EXTINF:48.000000,
+https://yishenghulian.oss-cn-guangzhou.aliyuncs.com/i/r8br8bi3_1795200829019/r8br8bi3_1795200829019_1.png
+#EXTINF:48.000000,
+https://swzl.oss-cn-shanghai.aliyuncs.com/i/r8br8bi3_1795200829019/r8br8bi3_1795200829019_2.png
+#EXT-X-ENDLIST
