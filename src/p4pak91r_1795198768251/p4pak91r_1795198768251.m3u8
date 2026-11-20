@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:33
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:33.000000,
+https://qishepeixun.oss-cn-beijing.aliyuncs.com/i/p4pak91r_1795198768251/p4pak91r_1795198768251_0.png
+#EXTINF:33.000000,
+https://mengyanxinfa.oss-cn-shenzhen.aliyuncs.com/i/p4pak91r_1795198768251/p4pak91r_1795198768251_1.png
+#EXTINF:33.000000,
+https://njxl.oss-cn-chengdu.aliyuncs.com/i/p4pak91r_1795198768251/p4pak91r_1795198768251_2.png
+#EXTINF:33.000000,
+https://fenghuangzanghonghuo.oss-cn-guangzhou.aliyuncs.com/i/p4pak91r_1795198768251/p4pak91r_1795198768251_3.png
+#EXTINF:33.000000,
+https://qiyiqi-res.oss-cn-shenzhen.aliyuncs.com/i/p4pak91r_1795198768251/p4pak91r_1795198768251_4.png
+#EXT-X-ENDLIST
