@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:32
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:32.000000,
+https://inmei-print.oss-cn-guangzhou.aliyuncs.com/i/9rvivcxh_1795273124445/9rvivcxh_1795273124445_0.png
+#EXTINF:32.000000,
+https://data-centre-scrn-test.oss-cn-guangzhou.aliyuncs.com/i/9rvivcxh_1795273124445/9rvivcxh_1795273124445_1.png
+#EXTINF:32.000000,
+https://taozs2.oss-cn-zhangjiakou.aliyuncs.com/i/9rvivcxh_1795273124445/9rvivcxh_1795273124445_2.png
+#EXTINF:32.000000,
+https://zyyz-1306827841.cos.ap-chengdu.myqcloud.com/i/9rvivcxh_1795273124445/9rvivcxh_1795273124445_3.png
+#EXTINF:32.000000,
+https://homepage-1251663767.cos.ap-chengdu.myqcloud.com/i/9rvivcxh_1795273124445/9rvivcxh_1795273124445_4.png
+#EXT-X-ENDLIST
