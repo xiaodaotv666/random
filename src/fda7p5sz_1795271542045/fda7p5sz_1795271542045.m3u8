@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:44
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:44.000000,
+https://ai-portal-1257468630.cos.ap-shanghai.myqcloud.com/i/fda7p5sz_1795271542045/fda7p5sz_1795271542045_0.png
+#EXTINF:44.000000,
+https://brook-w-xmind.oss-cn-chengdu.aliyuncs.com/i/fda7p5sz_1795271542045/fda7p5sz_1795271542045_1.png
+#EXTINF:44.000000,
+https://ekatong.oss-cn-guangzhou.aliyuncs.com/i/fda7p5sz_1795271542045/fda7p5sz_1795271542045_2.png
+#EXTINF:44.000000,
+https://driving-topic.oss-cn-zhangjiakou.aliyuncs.com/i/fda7p5sz_1795271542045/fda7p5sz_1795271542045_3.png
+#EXT-X-ENDLIST
