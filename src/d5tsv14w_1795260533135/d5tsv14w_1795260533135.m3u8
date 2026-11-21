@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:40
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:40.000000,
+https://yx-gangjiegou.oss-cn-guangzhou.aliyuncs.com/i/d5tsv14w_1795260533135/d5tsv14w_1795260533135_0.png
+#EXTINF:40.000000,
+https://data-centre-scrn-test.oss-cn-guangzhou.aliyuncs.com/i/d5tsv14w_1795260533135/d5tsv14w_1795260533135_1.png
+#EXTINF:40.000000,
+https://windwardasia.oss-ap-southeast-3.aliyuncs.com/i/d5tsv14w_1795260533135/d5tsv14w_1795260533135_2.png
+#EXTINF:40.000000,
+https://fx-wechat.oss-cn-hangzhou.aliyuncs.com/i/d5tsv14w_1795260533135/d5tsv14w_1795260533135_3.png
+#EXT-X-ENDLIST
