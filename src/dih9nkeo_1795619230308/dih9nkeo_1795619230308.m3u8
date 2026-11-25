@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.000000,
+#EXT-X-BYTERANGE:132164@818
+https://img2.xfb365.com/smww9bwn1h7uepu.png
+#EXTINF:5.000000,
+#EXT-X-BYTERANGE:125584@660
+https://img2.xfb365.com/smww9bx8emk1m9n.png
+#EXTINF:5.000000,
+#EXT-X-BYTERANGE:113552@770
+https://img2.xfb365.com/smww9bwmwphaaxe.png
+#EXTINF:5.000000,
+#EXT-X-BYTERANGE:113928@514
+https://img2.xfb365.com/smww9bzouwx76t3.png
+#EXT-X-ENDLIST
